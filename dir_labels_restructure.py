@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Dec 28 16:46:14 2018
-
-@author: Admin
-"""
-
 import os
 import shutil
 def create_dir_structure(dir = 'cifar/train'):
